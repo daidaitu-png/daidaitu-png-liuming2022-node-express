@@ -1,0 +1,9 @@
+{
+  "code": "200",
+  "data": {
+    "cardData": "{\"cardType\":\"HELPTOOLS\",\"cardTitle\":\"快捷工具\",\"list\":[{\"imgUrl\":\"https://www.lubokui.cn/static/img/submissionBill.png\",\"link\":\"https://www.lubokui.cn/weixin#/submission\",\"onlyRead\":\"true\",\"name\":\"提交工单\"},{\"imgUrl\":\"https://www.lubokui.cn/static/img/progressCenter.png\",\"link\":\"https://www.lubokui.cn/weixin#/speed\",\"onlyRead\":\"true\",\"name\":\"进度中心\"},{\"imgUrl\":\"https://www.lubokui.cn/static/img/offlineMessage.png\",\"link\":\"https://www.lubokui.cn/weixin#/subset/offlineMsg\",\"onlyRead\":\"true\",\"name\":\"留言\"},{\"imgUrl\":\"http://miniserviceoss.oss-cn-shanghai.aliyuncs.com/2088022554332602/20191030180674/4846.jpg_wh300.jpg?Expires=4726026984&OSSAccessKeyId=LTAI4FnxfB7nRWDd6AND7HSd&Signature=Xj4Hl6iAOz2PnlCV8mbE4FOu4ZI%3D\",\"toolId\":\"1\",\"link\":\"http://www.baidu.com\",\"toolType\":\"\",\"name\":\"工具标题1\",\"keyWord\":\"北京，上海，山东\"},{\"imgUrl\":\"http://miniserviceoss.oss-cn-shanghai.aliyuncs.com/2088022554332602/20191029159049/%E4%B8%8B%E8%BD%BD.jpg?Expires=4727849237&OSSAccessKeyId=LTAI4FnxfB7nRWDd6AND7HSd&Signature=XepFyCFXflVhfFQSVdH80BS9Okw%3D\",\"toolId\":\"2\",\"link\":\"http://www.baidu.com\",\"toolType\":\"\",\"name\":\"工具标题3\",\"keyWord\":\"魔都，业务\"},{\"imgUrl\":\"http://miniserviceoss.oss-cn-shanghai.aliyuncs.com/2088022554332602/20191030180674/4846.jpg_wh300.jpg?Expires=4726026984&OSSAccessKeyId=LTAI4FnxfB7nRWDd6AND7HSd&Signature=Xj4Hl6iAOz2PnlCV8mbE4FOu4ZI%3D\",\"toolId\":\"3\",\"link\":\"http://www.baidu.com\",\"toolType\":\"\",\"name\":\"工具标题4\",\"keyWord\":\"\"}]}",
+    "existEdit": false
+  },
+  "message": "处理成功",
+  "success": true
+}
